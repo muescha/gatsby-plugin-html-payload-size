@@ -12,7 +12,7 @@
 
 > Show and analyzes your initial HTML payloads. Warns you if your HTML files get to big.
 
-This is heavily inspired by [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) for Webpack.
+This is heavily inspired by [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) for Webpack (see also [gatsby-plugin-webpack-size](https://github.com/axe312ger/gatsby-plugin-webpack-size)).
 
 ![Screenshot](./screenshot.png)
 
